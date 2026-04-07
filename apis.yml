@@ -1,7 +1,12 @@
 aid: jabil-circuit
-url: https://raw.githubusercontent.com/api-evangelist/jabil-circuit/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/jabil-circuit/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.jabil-circuit.com
+description: >-
+  Jabil is a global manufacturing services and solutions company providing comprehensive
+  electronics design, production, and product management services to electronics and
+  technology companies in a broad range of industries.
