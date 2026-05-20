@@ -19,6 +19,10 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/JABIL
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/jabil
   - type: Website
     url: https://www.jabil.com
   - type: Customer Portal
