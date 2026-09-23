@@ -1,7 +1,9 @@
 ---
 title: Endeavour and Jabil partner to deliver on-demand AI ...
 url: https://www.investing.com/news/company-news/endeavour-and-jabil-partner-to-deliver-ondemand-ai-infrastructure-93CH-4135766
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Jabil Circuit" press release artificial intelligence'
 position: 1
 source: serpapi-google

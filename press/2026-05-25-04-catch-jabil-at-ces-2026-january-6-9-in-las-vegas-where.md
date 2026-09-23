@@ -1,7 +1,9 @@
 ---
 title: Catch Jabil at CES 2026, January 6-9 in Las Vegas, where ...
 url: https://www.facebook.com/Jabil/posts/catch-jabil-at-ces-2026-january-6-9-in-las-vegas-where-the-brightest-tech-innova/1372496318248706/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Jabil Circuit" press release artificial intelligence'
 position: 4
 source: serpapi-google

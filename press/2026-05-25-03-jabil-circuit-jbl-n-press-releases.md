@@ -1,7 +1,9 @@
 ---
 title: Jabil Circuit (JBL-N) Press Releases
 url: https://www.theglobeandmail.com/investing/markets/stocks/JBL-N/pressreleases/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Jabil Circuit" press release artificial intelligence'
 position: 3
 source: serpapi-google
