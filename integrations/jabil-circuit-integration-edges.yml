@@ -1,0 +1,72 @@
+edges:
+- partner_name: Open Compute Project marketplace
+  partner: null
+  partner_match: register
+  type: register
+  channel: standard-directory
+  relationship: standard-participant
+  direction: partner-built
+  evidence: https://www.opencompute.org/marketplace/it-infrastructure/j521e-s/
+  category: data-center hardware recognition
+  contract_reference:
+    register: Open Compute Project marketplace (opencompute.org/products; /wp-json/wp/v2/marketplace + /companies)
+    standard: Open Compute Project
+    spec_file: null
+    role: ocp-recognised-product-vendor
+    registered_name: Jabil Inc.
+    register_id: https://www.opencompute.org/members/jabil/
+    matched_domain: jabil.com
+    matched_by: domain
+    listings: 5
+    recognised_listings: 5
+    products_sample:
+    - J521E-S
+    - Jabil J311-S Versatile 4th Gen Intel® Xeon® Single Socket 1U Rackmount Server
+    - Jabil J322OR Scalable Storage Engineered for Hyperscale Efficiency
+    - Jabil J421E-S High Performance AMD® EPYC™ Zen 5 2U Single Socket MHS Rackmount Server
+    - Jabil J422-S High Performance 6th Gen Intel® Xeon® 2U Dual Socket MHS Rackmount Server
+    signal_note: certified_products = one entry per product type (OCP recognition + most specific marketplace segment)
+      among OCP-recognised listings; unrecognised listings are listing alone (participation). The REST data marks
+      no listing archived, so lapsed is false. Listing counts are context, never counted
+    detected_by: sweep-semiconductor-consortia.py
+    detected: '2026-10-21'
+    certified_products:
+    - product: 'OCP Accepted: IT Infrastructure'
+      recognition: OCP Accepted
+      product_type: IT Infrastructure
+      lapsed: false
+      listings: 4
+      newest_listing: '2025-09-30'
+    - product: 'OCP Accepted: Modular Hardware Systems (MHS)'
+      recognition: OCP Accepted
+      product_type: Modular Hardware Systems (MHS)
+      lapsed: false
+      listings: 4
+      newest_listing: '2026-10-06'
+    - product: 'OCP Accepted: Storage Systems'
+      recognition: OCP Accepted
+      product_type: Storage Systems
+      lapsed: false
+      listings: 1
+      newest_listing: '2025-09-30'
+  detected_by: sweep-semiconductor-consortia.py
+  first_seen: '2026-10-21'
+  partner_tier: OCP Accepted
+generated: '2026-10-21'
+method: searched
+source:
+- https://riscv.org/members/
+- https://riscv.landscape2.io/data/full.json
+- https://www.opencompute.org/products
+- https://www.opencompute.org/wp-json/wp/v2/marketplace
+- https://www.opencompute.org/wp-json/wp/v2/companies
+- https://www.nist.gov/chips/chips-program-office-awards
+- https://www.nist.gov/chips/chips-rd-office-awards
+checked:
+- https://riscv.landscape2.io/data/full.json
+- https://riscv.org/members/
+- https://www.nist.gov/chips/chips-program-office-awards
+- https://www.nist.gov/chips/chips-rd-office-awards
+- https://www.opencompute.org/products
+- https://www.opencompute.org/wp-json/wp/v2/companies
+- https://www.opencompute.org/wp-json/wp/v2/marketplace
